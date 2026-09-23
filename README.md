@@ -6,7 +6,7 @@ I tend to work where product, engineering, and operations overlap: identifying t
 
 Most of my production work is in private company repositories. My public GitHub includes selected personal projects and open-source contributions.
 
-## Selected work
+## Selected technical work
 
 * **Developer tooling and CI/CD** - Jenkins pipelines and shared libraries, cross-platform game builds, signing, packaging, release automation, and deployment workflows across Windows, macOS, Linux, iOS, and Android.
 * **Cloud and platform infrastructure** - AWS, Kubernetes, Docker, Terraform, Cloudflare, GitHub Actions, identity and access management, observability, and deployment systems.
@@ -14,4 +14,4 @@ Most of my production work is in private company repositories. My public GitHub 
 * **Open source** - Created the Jenkins SCM integration for Diversion and contributed fixes and release improvements after the plugin moved into the Jenkins organization.
 * **AI-assisted engineering** - Building practical agent and automation workflows for technical investigation, implementation, and operations.
 
-I am particularly interested in technical program leadership around developer productivity, internal platforms, infrastructure, engineering effectiveness, and AI enablement.
+My work is strongest around developer productivity, internal platforms, infrastructure, engineering effectiveness, and AI enablement.
